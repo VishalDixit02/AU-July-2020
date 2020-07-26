@@ -1,0 +1,43 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Regular Expression</title>
+</head>
+
+<body>
+   
+<h1>Regular Expression</h1>
+
+<input type="text" id="regexExp" value="">
+<input type="submit" onclick="func()">
+<h2 id="abc"></h2>
+<script>
+function func()
+{
+    let temp= document.getElementById("regexExp").value;
+
+    let patt= /^(hot|not|dot).*(hoot|doot|no+t)$/;
+
+    const ans =patt.exec(temp);
+    if(ans==null)
+    {
+        document.getElementById("abc").innerHTML="false";
+    }
+    else
+    {
+        document.getElementById("abc").innerHTML="true";
+    }
+
+}
+
+
+
+</script>
+
+<!-- <script src="index.js">
+</script> -->
+</body>
+</html>
