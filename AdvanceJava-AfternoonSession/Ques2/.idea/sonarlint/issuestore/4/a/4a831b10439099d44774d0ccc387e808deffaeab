@@ -1,19 +1,19 @@
 
+f	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıØÔé
 f	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ìéû
-S	java:S106"9Replace this use of System.out or System.err by a logger.(©˛Í‹˙ˇˇˇˇ
-c
-java:S2095+"HUse try-with-resources or close this "Connection" in a "finally" clause.(ä•È”¯ˇˇˇˇ
 H
 java:S4925*"-Remove this "Class.forName()", it is useless.(πµ÷¡¸ˇˇˇˇ
+e
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ˆãïé
+c
+java:S2095+"HUse try-with-resources or close this "Connection" in a "finally" clause.(ä•È”¯ˇˇˇˇ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(±›£Ï
 k	java:S117
 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˇıÃÅ˚ˇˇˇˇ
 k	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Òı±˙ˇˇˇˇ
-M	java:S106"9Replace this use of System.out or System.err by a logger.(…ˇç
-e
-java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ˆãïé
-f	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıØÔé
-N	java:S106"9Replace this use of System.out or System.err by a logger.(±›£Ï
-N	java:S106>"9Replace this use of System.out or System.err by a logger.(±Ê‘Á
-f	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô‰ØÆ
 P
 java:S2755/"3Disable access to external entities in XML parsing.(û©õÔ8Öº·òª.
+M	java:S106"9Replace this use of System.out or System.err by a logger.(…ˇç
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©˛Í‹˙ˇˇˇˇ
+f	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô‰ØÆ
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(±Ê‘Á
